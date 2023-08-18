@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Hrithik",
+      "email": "test@test.com",
+      "contact": "9988776655",
+      "address": "Nagpur",
+      "id": 1
+    },
+    {
+      "name": "Rahul1",
+      "email": "test22@test.com",
+      "contact": "8888776655",
+      "address": "Pune",
+      "id": 2
+    }
+  ]
+}
